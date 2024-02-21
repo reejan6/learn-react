@@ -1,3 +1,5 @@
+import React from "react";
+
 const baseUrl = 'https://i.imgur.com/';
 const person = {
   name: 'Gregorio Y. Zara',
