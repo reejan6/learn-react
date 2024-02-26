@@ -7,6 +7,7 @@ export default function Gallery() {
 
   function handleNextClick() {
     setIndex(index + 1);
+    setShowMore(false);
   }
 
   function handleMoreClick() {

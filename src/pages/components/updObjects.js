@@ -16,7 +16,6 @@ export default function Form() {
     setPerson(nextPerson);
   }
 
-
   return (
     <>
       <img src={person.artwork.image}/>
